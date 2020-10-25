@@ -1,0 +1,89 @@
+// Background color
+$nav-bg-color: #596e79;
+$logo-bg: white;
+$shadow: rgba(0, 0, 0, 0.5);
+$scroll_btn: white;
+
+// nav color
+$nav_font: #f0ece2;
+$nav_font_hover: #ffa5a5;
+// original colour #ffbaba;
+$bar_color: white;
+$bar_hover_color: #d8d3cd;
+
+// font-size
+@mixin title() {
+    font-size: 32px;
+    font-weight: bolder;
+  }
+
+@mixin subtitle() {
+font-size: 26px;
+font-weight: normal;
+}
+
+@mixin text() {
+font-size: 18px;
+font-weight: normal;
+}
+
+@mixin annotation() {
+font-size: 14px;
+font-weight: lighter;
+}
+
+@mixin textAlign() {
+  text-align: justify;
+  text-justify: inter-ideograph;
+}
+
+$line_black: black;
+$line_grey: grey;
+$title_bg_white: white;
+
+// tablet version
+
+// font-size
+@mixin tablet_title() {
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+@mixin tablet_subtitle() {
+font-size: 20px;
+font-weight: normal;
+}
+
+@mixin tablet_text() {
+font-size: 16px;
+font-weight: normal;
+}
+
+@mixin tablet_annotation() {
+font-size: 13px;
+font-weight: lighter;
+}
+
+
+// phone version
+
+// font-size
+@mixin phone_title() {
+  font-size: 26px;
+  font-weight: bolder;
+}
+
+@mixin phone_subtitle() {
+font-size: 18px;
+font-weight: normal;
+}
+
+@mixin phone_text() {
+font-size: 14px;
+font-weight: normal;
+}
+
+@mixin phone_annotation() {
+font-size: 12px;
+font-weight: normal;
+}
