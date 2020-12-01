@@ -25,4 +25,4 @@ Detail-
 <p>5. A customized contact form</p>
 <img src="https://github.com/tinzuu05/h.florist.io/blob/main/readme-images/form.JPG?raw=true" width="500px">
 
-<p>This website is for practice only, if you have any further queries, please do not hesitate to contact me.</p>
+<p>This website is for practice use only, if you have any further queries, please do not hesitate to contact me.</p>
