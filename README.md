@@ -5,5 +5,5 @@ thank you.
 
 Detail-
 
-<p>1.</p>
-![image](https://github.com/tinzuu05/h.florist.io/blob/main/readme-images/menu.JPG)
+<p>1. Full screen menu</p>
+<img src="https://github.com/tinzuu05/h.florist.io/blob/main/readme-images/menu.JPG?raw=true" width="500px">
