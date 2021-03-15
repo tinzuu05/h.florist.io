@@ -1,3 +1,10 @@
+<h1>花藝教室網站</h1>
+<h2>前端-</h2>
+<p>HTML、SCSS、Javascript，RWD網站前端設計(三種版型-電腦、平板與手機)</p>
+<p>使用Hover效果製作課程介紹</p>
+<p>導入Bootstrap前端CSS框架</p>
+<p>外聯Google Map於頁面中</p>
+
 <h3>It's a personal project about a floral course shop, I built it with the information of H. Florist and helped it to create an online website.</h3>
 
 Check Demo <a href="https://tinzuu05.github.io/h.florist.io/">here</a> please, or click link - https://tinzuu05.github.io/h.florist.io/
